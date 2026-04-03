@@ -1,0 +1,6 @@
+streamlit
+pandas
+joblib
+sqlalchemy
+plotly
+supabase

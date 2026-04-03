@@ -1,0 +1,1 @@
+SELECT * FROM sales_analytics_internship.tbl_office_growth_trend;
