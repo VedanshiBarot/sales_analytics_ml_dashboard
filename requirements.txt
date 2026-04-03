@@ -4,3 +4,4 @@ joblib
 sqlalchemy
 plotly
 supabase
+scikit-learn
